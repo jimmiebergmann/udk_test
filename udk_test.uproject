@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{9B666989-447D-4B01-9329-5BB5CB07053D}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "udk_test",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

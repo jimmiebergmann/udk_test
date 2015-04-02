@@ -1,0 +1,31 @@
+# Directories #
+Binaries
+Content/StarterContent
+DerivedDataCache
+Intermediate
+Saved
+/doc/*
+!/doc/Doxyfile
+
+# Config #
+Config/DefaultEditorUserSettings.ini
+
+# Compiled #
+*.obj
+*.exe
+
+# Build #
+*.sln
+*.exp
+*.ncb
+*.suo
+*.user
+*.pdb
+*.sdf
+*.opensdf
+*.layout
+*.cbTemp
+*.depend
+*.log
+*.tlog
+
